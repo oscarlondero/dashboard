@@ -5,8 +5,8 @@
 [![Stack](https://img.shields.io/badge/stack-PHP%20%2B%20MySQL%20%2B%20JS-orange)]()
 
 Sistema **de una sola página** (SPA ligera) con **Dashboard** de avance de proyectos y **ABM** de:
-**proyectos**, **estados**, **clientes**, **módulos** (producto/rubro/pedido) y **equipos**.  
-Diseñado para cátedras de la **Tecnicatura Universitaria en Programación (UTN)** y para proyectos educativos o institucionales que requieran una arquitectura simple y portable entre lenguajes.
+**proyectos**, **estados**, **clientes**, **módulos** y **equipos**.  
+Diseñado para cátedras de la **Tecnicatura Universitaria en Programación (UTN)** y para proyectos educativos o institucionales que requieran una arquitectura simple y portable entre lenguajes y/o stacks.
 
 ---
 
